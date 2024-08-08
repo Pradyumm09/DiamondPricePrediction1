@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #cf5c5c;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .title {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .description {
+            text-align: center;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+            color: #666;
+        }
+        .interaction {
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 1em;
+            color: white;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="title">Diamond Price Prediction</div>
+    <div class="description">Welcome to the Diamond Price Prediction project. This tool uses advanced machine learning algorithms to predict the price of diamonds based on various features.</div>
+    <div class="interaction">
+        <button class="button" onclick="redirectToPredictionTool()">Try the Prediction Tool</button>
+    </div>
+</div>
+
+<script>
+    function redirectToPredictionTool() {
+        // Redirect to the local prediction tool page
+        window.location.href = "http://127.0.0.1:5000/predict";
+    }
+</script>
+
+</body>
+</html>

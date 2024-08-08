@@ -1,0 +1,18 @@
+[ 2024-08-05 09:18:35,030 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-05 09:18:35,051 ] 97 werkzeug - INFO -  * Debugger PIN: 138-468-726
+[ 2024-08-05 09:21:12,760 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:21:12] "GET / HTTP/1.1" 200 -
+[ 2024-08-05 09:21:12,833 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:21:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-08-05 09:21:44,587 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:21:44] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-05 09:22:10,844 ] 66 root - INFO - Dataframe Gathered
+[ 2024-08-05 09:22:11,395 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:22:11] "POST /predict HTTP/1.1" 200 -
+[ 2024-08-05 09:27:17,933 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:27:17] "GET / HTTP/1.1" 200 -
+[ 2024-08-05 09:27:24,691 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:27:24] "GET / HTTP/1.1" 200 -
+[ 2024-08-05 09:27:39,719 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:27:39] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-05 09:27:46,308 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:27:46] "GET / HTTP/1.1" 200 -
+[ 2024-08-05 09:30:18,917 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:30:18] "GET / HTTP/1.1" 200 -
+[ 2024-08-05 09:30:51,867 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:30:51] "GET / HTTP/1.1" 200 -
+[ 2024-08-05 09:35:46,712 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:35:46] "GET / HTTP/1.1" 200 -
+[ 2024-08-05 09:35:49,295 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:35:49] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-05 09:37:25,523 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:37:25] "GET / HTTP/1.1" 200 -
+[ 2024-08-05 09:39:07,159 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 09:39:07] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-05 09:39:37,155 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\kumar\\Desktop\\Diamond _Price_prediction_Project\\application.py', reloading
